@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Dashboard</item>
+        <item>Attendance</item>
+        <item>Exam Details</item>
+        <item>Exam Hall Ticket</item>
+        <item>Internal Marks</item>
+        <item>Result</item>
+        <item>Fees Paid</item>
+        <item>Register Subject</item>
+        <item>ITLE</item>
+        <item>Library</item>
+        <item>Career Workshop</item>
+        <item>Certificate</item>
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_home_outline_grey600_24dp</item>
+        <item>@drawable/ic_account_outline_grey600_24dp</item>
+        <item>@drawable/exam</item>
+        <item>@drawable/ic_cart_outline_grey600_24dp</item>
+        <item>@drawable/result</item>
+        <item>@drawable/ic_cart_outline_grey600_24dp</item>
+        <item>@drawable/fees</item>
+        <item>@drawable/register_std</item>
+        <item>@drawable/ic_cart_outline_grey600_24dp</item>
+        <item>@drawable/library</item>
+        <item>@drawable/ic_cart_outline_grey600_24dp</item>
+        <item>@drawable/certificate</item>
+        <item>0</item>
+        <item>@drawable/logout</item>
+    </array>
+
+</resources>
